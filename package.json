@@ -22,7 +22,7 @@
     "postcss": "^8.4.5"
   },
   "dependencies": {
-    "@tailwindcss/typography": "^0.5.1",
+    "@tailwindcss/typography": "^0.5.13",
     "autoprefixer": "^10.4.2",
     "markdown-it": "^12.3.2",
     "markdown-it-anchor": "^8.4.1",
