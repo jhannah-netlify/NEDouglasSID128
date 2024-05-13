@@ -1,11 +1,24 @@
 ---
 layout: default
-title: Brother Bemused
+title: SID 128, Douglas County, Nebraska
 ---
 
-Brother Bemused is the allonym of Jim Hannah, for whom, as one friend said,
-"words are but a plaything." He's retired now after decades of word play as a
-journalist and editor, but still on occasion scratches the itch to write.
-Usually this compulsion stems from bewilderment about the human condition,
-hence the moniker bemused: "to cause to be mildly or wryly amused."
+Douglas Country Clerk / Comptroller: Sanitary and Improvement Districts (SIDs)
+[website](https://www.douglascountyclerk.org/sidinfo)
+
+
+This is a blog of updates from the SID 128 Board of Directors, so that residents of the SID
+can follow updates regarding the ongoing management of SID 128 by the Board.
+
+
+|||
+|---|---|
+|SID #|128|
+|Name|Twilight Hills|
+|Formed|Aug 30, 1963|
+|Board Chairman|Troy Barnes|
+|Board Clerk|Jay Ling|
+|Board Member|Jerry Wilson|
+|Board Member|Jay Hannah, 402-598-7782|
+|Attorney|Matthew Rusch Erickson/Sederstrom|
 

@@ -1,4 +1,4 @@
-Jim Hannah's personal blog.
+SID 128, Douglas County, Nebraska.
 
 Forked from https://github.com/kohrongying/11ty-blog-starter
 

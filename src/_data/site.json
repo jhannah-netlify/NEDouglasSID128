@@ -1,11 +1,10 @@
 {
-    "name": "Jim Hannah",
-    "url": "https://brotherbemused.jays.net",
-    "title": "Brother Bemused",
-    "description": "Ponderings of Jim Hannah",
-    "short_bio": "Dad's short bio goes here.",
-    "github": "https://github.com/jhannah-netlify/brotherbemused",
-    "facebook": "https://www.facebook.com/jim.hannah.988",
-    "email": "Jim Hannah <jim@jays.net>",
-    "rss": "https://brotherbemused.jays.net/feed.xml"
+    "name": "SID 128, Douglas County, Nebraska",
+    "url": "https://sid128.jays.net",
+    "title": "SID 128, Douglas County, Nebraska",
+    "description": "Periodic updates from the SID Board",
+    "short_bio": "updates",
+    "github": "https://github.com/jhannah-netlify/NEDouglasSID128",
+    "email": "Jay Hannah <jay+sid@jays.net>",
+    "rss": "https://sid128.jays.net/feed.xml"
 }
