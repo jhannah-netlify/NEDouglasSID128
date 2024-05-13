@@ -4,7 +4,7 @@ date: 2024-05-13 12:00:00 -5
 # published: false
 image1: 2024/7_Power_lines_trench_looking_West_to_Pole.jpg
 image2: 2024/8_Power_lines_trench_looking_East_to_Transformer.jpg
-tags:
+tags: wwtf
 ---
 First the good: OPPD buried the powerline to the wastewater plant (at no cost to the SID), which is an improvement in safety and power reliability.
 
