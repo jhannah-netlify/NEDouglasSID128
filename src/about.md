@@ -14,8 +14,8 @@ of the ongoing management by the Board.
 |Name|Twilight Hills|
 |Formed|Aug 30, 1963|
 |Board Chairman|Troy Barnes|
-|Board Clerk|Jay Ling|
-|Board Member|Jerry Wilson|
+|Board Clerk|Jerry Wilson|
+|Board Member|Jay Ling|
 |Board Member|Jay Hannah, 402-598-7782|
 |Attorney|Matthew Rusch Erickson/Sederstrom|
 
