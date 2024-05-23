@@ -2,8 +2,8 @@
 title: Tree removal scheduled
 date: 2024-01-29 12:00:00 -5
 # published: false
-image1: 2024/tree-removal-1.png
-image2: 2024/tree-removal-2.png
+image1: 2024/tree-removal-1.jpg
+image2: 2024/tree-removal-2.jpg
 tags: wwtf
 ---
 Tree removal is scheduled for 25 & 26 March.  OPPD came to scope dropping the

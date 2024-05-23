@@ -43,4 +43,4 @@ Operation and Maintenance of Wastewater Works.
 "Warrants" are the accounting mechanism via which the SID pays vendors for services.
 Residents pay property taxes to the Douglas County Treasurer, which holds all the SID's money.
 The SID President and Clerk then sign "warrants" so that the County Treasurer sends
-money to OPPD for the electricity to run the WWTF (for example).
+money to (for example) OPPD for the electricity to run the WWTF.
