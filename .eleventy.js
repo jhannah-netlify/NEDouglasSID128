@@ -1,6 +1,7 @@
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight')
 const markdownIt = require('markdown-it')
 const markdownItAnchor = require('markdown-it-anchor')
+let markdownItFootnote = require("markdown-it-footnote");
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 
 module.exports = function(eleventyConfig) {
@@ -50,6 +51,8 @@ module.exports = function(eleventyConfig) {
       class: 'header-anchor',
     })
   })
+  md.use(markdownItFootnote);
+
   eleventyConfig.setLibrary('md', md)
 
   // asset_img shortcode
