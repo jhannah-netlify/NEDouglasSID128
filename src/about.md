@@ -22,7 +22,7 @@ of the ongoing management by the Board.
 # Wastewater Treatment Facility (WWTF)
 
 The SID owns and operates it's own wastewater treatment facility.
-Constructed in the 1970s, it is a small package plant consisting of one aeration basin,
+Constructed in the 1960s, it is a small package plant consisting of one aeration basin,
 a final clarifier, and chlorination basin.
 It serves approximately 30 homes with a population of 75.
 
@@ -42,5 +42,25 @@ Operation and Maintenance of Wastewater Works.
 
 "Warrants" are the accounting mechanism via which the SID pays vendors for services.
 Residents pay property taxes to the Douglas County Treasurer, which holds all the SID's money.
-The SID President and Clerk then sign "warrants" so that the County Treasurer sends
+The SID **President** and **Clerk** then sign "warrants" so that the County Treasurer sends
 money to (for example) OPPD for the electricity to run the WWTF.
+
+# Elections
+
+The SID Board of Directors consists of 5 members, elected every 2 years (e.g. 2024).
+The [Douglas County Election Commission](https://www.votedouglascounty.com/sid.aspx)
+runs the election by mailing ballots to all owners of property in the SID.
+ 
+* **Ballot One**: For property owners residing within the SID. Three trustees will be elected from Ballot One. Normally:
+  * Most votes is **Board Chairman**.
+  * Second most votes is **Board Clerk**.
+  * Third most votes is **Board Member**.
+* **Ballot Two**: For all property owners, resident and non-resident. Two trustees will be elected from Ballot Two.
+  * Most, and second most votes are **Board Members**.
+
+In election years:
+* July ~19 is the deadline to register with the Douglas County Election Commission to appear on
+Ballot One or Ballot Two. The candidate must specify which Ballot they want to appear on.
+* September ~10 is election day, ballots must arrive on or before that day.
+* Those dates change slightly according to what days of the week those dates
+happen to fall on that year.
