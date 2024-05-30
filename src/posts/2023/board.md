@@ -6,5 +6,7 @@ tags:
 ---
 The remaining Board has voted and adopted a resolution:
 * Troy Barnes elected Interim Chairman of the Board until the next
-[election](/about/#elections).
+election.
 <!-- excerpt -->
+
+[How do SID elections work?](/about/#elections)
