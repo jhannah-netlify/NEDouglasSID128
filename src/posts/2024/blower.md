@@ -13,3 +13,6 @@ I’d like to get the failed motor replaced before winter sets in because the se
 I recommend that we replace the failed motor with a Baldor EM3311T.  This is the motor  model that replaced the other original motor and it has been in service for a few years now (5-ish?).  The cost of the new motor is $1,230.20 and a conversion mounting plate is another $70.  It has a three year warranty.  I’d also propose to have nearby electricians that have worked at the plant before do the wiring as I’m not that confident with 3 phase wiring.
 
 The Board voted to approve this request.
+
+<a href="/about/#wastewater-treatment-facility-(wwtf)">About our Wastewater Treatment Facility</a>
+(WWTF).

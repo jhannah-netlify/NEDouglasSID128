@@ -9,6 +9,9 @@ tags: wwtf
 SID Board Members: I'm seeking your approval for the attached quote for $5,000 for engineering services in support of the wastewater treatment facility (WWTF).
 <!-- excerpt -->
 
+<a href="/about/#wastewater-treatment-facility-(wwtf)">About our Wastewater Treatment Facility</a>
+(WWTF).
+
 The intent is that these engineering services answer two questions:
 
 1) Is it time to repair the chain driven sludge scraper system est. $25 - $30k, which is the cost to replace on sprocket and the chains, or will it be more cost effective to replace this system with a more cost-effective modern solution, and
