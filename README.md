@@ -6,10 +6,13 @@ Forked from https://github.com/kohrongying/11ty-blog-starter
 
 Create your blogpost under `src/posts`. I like to have mine sorted by YY/MM.
 
-Navigate to localhost:8080 after starting the server.
 ```
+npm build
 npm start
 ```
+
+Navigate to http://localhost:8080/ after starting the server.
+
 
 ## Deployment
 [<img src="https://www.netlify.com/img/deploy/button.svg" />](

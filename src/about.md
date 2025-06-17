@@ -14,10 +14,11 @@ of the ongoing management by the Board.
 |Name|Twilight Hills|
 |Formed|Aug 30, 1963|
 |Board Chairman|Troy Barnes|
-|Board Clerk|Jerry Wilson|
+|Board Clerk|Jay Hannah, 402-598-7782|
+|Board Member|Jerry Wilson|
+|Board Member|Doug Rose|
 |Board Member|Jay Ling|
-|Board Member|Jay Hannah, 402-598-7782|
-|Attorney|Matthew Rusch Erickson/Sederstrom|
+|Attorney|Matthew Rusch, [Erickson / Sederstrom P.C., L.L.O.](https://eslaw.com/)|
 
 # Wastewater Treatment Facility (WWTF)
 
