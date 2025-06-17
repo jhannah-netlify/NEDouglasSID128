@@ -2,7 +2,8 @@
 title: Storm damaged tree removal
 date: 2024-12-04 12:00:00 -5
 # published: false
-# image1: 2024/IMG_7940.jpg
+image1: 2024/tree-removal-10.jpg
+image2: 2024/tree-removal-11.jpg
 tags: wwtf
 ---
 
@@ -13,10 +14,13 @@ I think the proposed cost of removal of the two additional trees $1,900 is reaso
 
 They are returning to the site to finish clean up because when OPPD trenched the WWTF powerline, they left a significant swath of soft bare earth (mud) that would have been destroyed by the cleanup equipment, so it was mutually determined best to delay the impacted clean up to this winter (though they completed 90% of the cleanup which was accessible).
 
-The pictures in the attached proposal show the trees in question, but I am happy to show any of you the specific trees at the WWTF upon request.
+These pictures show the trees in question, but I am happy to show any of you the specific trees at the WWTF upon request.
+
+{% asset_img image1 'tree1' %}
+{% asset_img image2 'tree2' %}
 
 I think the tree removals and trimming that occurred earlier this year likely saved the SID from costly damage to the power infrastructure and the equipment at the WWTF.
 
-In other news, I recently determined that Chuck was supplementing the biological process at the WWTF with nutrient and bacterial supplements.  I am hopeful that the effluent ammonia levels may comply with the SID NPDES permit with the use of these supplements once the weather warms up again next Spring.  More to follow on that.
-
 The Board voted to approve this request.
+
+In other news, I recently determined that Chuck was supplementing the biological process at the WWTF with nutrient and bacterial supplements.  I am hopeful that the effluent ammonia levels may comply with the SID NPDES permit with the use of these supplements once the weather warms up again next Spring.  More to follow on that.
