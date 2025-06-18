@@ -34,6 +34,7 @@ Technical Memorandum:
    * Options or recommendations for the repair of the rectangular clarifier and a high-level budgetary opinion of cost.
    * Risk assessment tool evaluating other alternatives for the treatment of the SID’s wastewater. The risk assessment should evaluate capital costs, annual operating costs, operational capability, and compliance with regulations for the following options at a minimum. The risk assessment will be based on general knowledge of improvements and will provide high-level budgetary opinions to
 express capital expenses.
+   * Possible courses of action:
       * Do Nothing
       * Rehabilitation of the Existing System
       * Replacement of the Existing System
@@ -42,3 +43,18 @@ express capital expenses.
 
 The Board voted to approve hourly consulting to that engineering firm, in a total amount not to
 exceed $5,000.
+
+## Board discussion
+
+**Q:** Regarding possibility "iv. Conveying the Wastewater to Another System": Do any such options exist? I don't think I've ever heard of any such possibility?
+
+**A:** A few years ago, I contacted the City of Omaha Sewer Division and the closest sanitary sewer to us at the time was on the north end of Wyman Heights (on 29th Street).  I did a quick review of the cost of a force main to that location and the need to cross multiple private properties and thought the cost would be prohibitive.  I welcome a review of that alternative from a wastewater engineering firm.
+
+**Q:** I did look at the proposal and partially like that the cost cannot go above $5k without prior approval. Is there a way to make that a not-to-exceed number? What I am fearful of is they blow through the initial budget and are only 50% finished with their study. 
+
+**A:** As you note the proposal states "The total compensation for Services is estimated to be $5,000.00. Engineer shall not exceed this estimate without prior written approval."  They're a small company that has experience working with SIDs with limited budgets.  I suspect that this price is only this low because they want to help a small SID in their neighborhood.  Providing services for the City of Omaha and other nearby cities is how they stay in business.  Barring the SID adding scope, I anticipate they will complete the scope for $5k.
+
+Engineering services are often a bit more flexible in their contract arrangements, especially for smaller/preliminary work.  I'm hesitant to ask for a not-to-exceed price on this preliminary engineering work because there are unknowns/risks that I think the SID should be responsible for, I think the price would likely increase, and I don't think it's in the best interest of the SID to pay for likely unrealized unknowns/risks.
+
+Just my opinion. I'm happy to discuss or to request different contract terms as the SID Board sees fit. Thoughts?
+
