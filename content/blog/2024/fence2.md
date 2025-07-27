@@ -2,7 +2,7 @@
 title: Fencing repairs completed
 date: 2024-05-22 12:00:00 -5
 # published: false
-image: 2024/Entrance_fencing_after.jpg
+image: Entrance_fencing_after.jpg
 
 tags: wwtf
 ---

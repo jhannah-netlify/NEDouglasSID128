@@ -2,8 +2,8 @@
 title: Power line burial and motor failure
 date: 2024-05-13 12:00:00 -5
 # published: false
-image: 2024/7_Power_lines_trench_looking_West_to_Pole.jpg
-image2: 2024/8_Power_lines_trench_looking_East_to_Transformer.jpg
+image: 7_Power_lines_trench_looking_West_to_Pole.jpg
+image2: 8_Power_lines_trench_looking_East_to_Transformer.jpg
 tags: wwtf
 ---
 First the good: OPPD buried the powerline to the wastewater plant (at no cost

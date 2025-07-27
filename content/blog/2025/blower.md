@@ -2,7 +2,7 @@
 title: Blower motor installed
 date: 2025-01-05 12:00:00 -5
 # published: false
-image: 2025/S_PD_Blower_Motor.jpg
+image: S_PD_Blower_Motor.jpg
 tags: wwtf
 ---
 

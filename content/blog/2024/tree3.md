@@ -2,8 +2,8 @@
 title: Storm damaged tree removal
 date: 2024-12-04 12:00:00 -5
 # published: false
-image: 2024/tree-removal-10.jpg
-image2: 2024/tree-removal-11.jpg
+image: tree-removal-10.jpg
+image2: tree-removal-11.jpg
 tags: wwtf
 ---
 
