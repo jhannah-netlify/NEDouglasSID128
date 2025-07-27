@@ -2,7 +2,7 @@
 title: "Update: Sludge scraper gear, tree removal, NDEE"
 date: 2025-01-05 12:00:00 -5
 # published: false
-image1: 2025/IMG_9919.jpg
+image: 2025/IMG_9919.jpg
 tags: wwtf
 ---
 
@@ -20,7 +20,7 @@ He quoted $14,261.00 to replace the gear. The gear would need to be custom fabri
  
 On 21 April 2025, the remaining tree cleanup was finished. The tree removals likely have saved the SID some money though damage avoidance given the extreme wind events over the last year and the number of damaged trees that were overhanging the WWTF.  Plus, this was an action item on our last NPDES permit inspection cycle, and I believe the SID has now addressed the concern.
 
-{% asset_img image1 'trees' %}
+<img src="{{image}}" alt="trees">
 
 On 8 May 2025, I will meet with a wastewater engineer at the WWTF.  They have 13 staff in Fort Calhoun and provide water and wastewater consulting to the local municipalities.  The purpose of the visit is to discuss potential solutions to substitute another lower maintenance solution for sludge movement in the clarifier.  The sludge scraper system we have is a large industrial chain system from the 1960's that runs 24-7 and will be a costly maintenance item for the SID, especially since some of the parts are no longer commercially available and must be fabricated.  This system (or another solution that provides this function) is essential for compliance with our NPDES permit.  I will reach out to the trustees with an update after this visit.  If there's a viable solution, I anticipate a quote to further evaluate the solution and develop it into a biddable requirement.  My intent here is to evaluate sludge scraper system replacement prior to additional investment in repairs.  Of course, it will be up to the trustees to determine if we proceed with any proposed path beyond the free site visit.  More to follow.
 

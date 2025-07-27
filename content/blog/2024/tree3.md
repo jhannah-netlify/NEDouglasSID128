@@ -2,7 +2,7 @@
 title: Storm damaged tree removal
 date: 2024-12-04 12:00:00 -5
 # published: false
-image1: 2024/tree-removal-10.jpg
+image: 2024/tree-removal-10.jpg
 image2: 2024/tree-removal-11.jpg
 tags: wwtf
 ---
@@ -19,8 +19,8 @@ They are returning to the site to finish clean up because when OPPD trenched the
 
 These pictures show the trees in question, but I am happy to show any of you the specific trees at the WWTF upon request.
 
-{% asset_img image1 'tree1' %}
-{% asset_img image2 'tree2' %}
+<img src="{{image}}" alt="tree1">
+<img src="{{image2}}" alt="tree2">
 
 I think the tree removals and trimming that occurred earlier this year likely saved the SID from costly damage to the power infrastructure and the equipment at the WWTF.
 
