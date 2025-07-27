@@ -122,6 +122,8 @@ export default async function(eleventyConfig) {
 	// https://www.11ty.dev/docs/copy/#emulate-passthrough-copy-during-serve
 
 	// eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
+
+	eleventyConfig.addFilter("contentImgUrlFilter", contentImgUrlFilter);
 };
 
 export const config = {
@@ -162,3 +164,26 @@ export const config = {
 
 	// pathPrefix: "/",
 };
+
+// Author: Seramis
+// https://github.com/11ty/eleventy-img/issues/278
+import path from 'node:path';
+import Image from '@11ty/eleventy-img';
+async function contentImgUrlFilter(src) {
+  const inputDir = path.dirname(this.page.inputPath);
+  const imagePath = path.resolve(inputDir, src);
+  const outputDir = path.dirname(this.page.outputPath);
+  const urlPath = this.page.url;
+
+  const stats = await Image(imagePath, {
+    widths: [1200], // Width for Open Graph image
+    formats: ["jpg", "png"],
+    outputDir: outputDir, // Output directory
+    urlPath: urlPath, // Public URL path
+    filenameFormat: function (hash, src, width, format) {
+        return `${hash}-${width}.${format}`;
+    },
+  });
+  return stats.jpeg[0].url; // Return the URL of the processed image
+}
+

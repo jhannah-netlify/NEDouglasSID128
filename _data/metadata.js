@@ -1,11 +1,12 @@
 export default {
-	title: "Eleventy Base Blog v9",
-	url: "https://example.com/",
+	title: "SID 128, Douglas County, Nebraska",
+	url: "https://sid128.netlify.app",
 	language: "en",
-	description: "I am writing about my experiences as a naval navel-gazer.",
+	description: "Periodic updates from the SID Board",
 	author: {
-		name: "Your Name Here",
-		email: "youremailaddress@example.com",
-		url: "https://example.com/about-me/"
+		name: "Jay Hannah",
+		email: "jay+sid@jays.net",
+		url: "http://jays.net"
 	}
 }
+
