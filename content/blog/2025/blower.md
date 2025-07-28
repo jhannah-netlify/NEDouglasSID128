@@ -13,5 +13,5 @@ Update: Install Complete: The new motor installation was completed on 12/26/2024
 
 Total cost was $1,817.01: $1,385.86 for the motor which came from P&H in Fremont, $100 for a preparatory site visit, and $331.15 for the install.  The site visit was almost an hour with one electrician, and wiring and testing took almost two hours with two electricians.  As a comparison, the SID paid $1,978.64 in early 2019 to replace the North PD blower motor with the same motor model.
 
-<a href="/about/#wastewater-treatment-facility-(wwtf)">About our Wastewater Treatment Facility</a>
+<a href="/about/#wastewater-treatment-facility-wwtf">About our Wastewater Treatment Facility</a>
 (WWTF).

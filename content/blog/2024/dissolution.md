@@ -10,7 +10,7 @@ been dissolved, or annexed by Omaha, for decades now. The Board was interested
 in exploring all options of long-term strategies.
 <!-- excerpt -->
 
-<a href="/about/#wastewater-treatment-facility-(wwtf)">About our Wastewater Treatment Facility</a>
+<a href="/about/#wastewater-treatment-facility-wwtf">About our Wastewater Treatment Facility</a>
 (WWTF).
 
 I was finally able to have a discussion with in our office regarding the possibility and feasibility of dissolving SID 128.

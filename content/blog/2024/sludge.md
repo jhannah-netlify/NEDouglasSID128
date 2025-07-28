@@ -13,5 +13,5 @@ My plan is to slowly pump the aeration basin down to the sludge / biomass layer 
 
 Approved by a vote of the Board.
 
-<a href="/about/#wastewater-treatment-facility-(wwtf)">About our Wastewater Treatment Facility</a>
+<a href="/about/#wastewater-treatment-facility-wwtf">About our Wastewater Treatment Facility</a>
 (WWTF).

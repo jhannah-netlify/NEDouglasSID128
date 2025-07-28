@@ -9,7 +9,7 @@ tags: wwtf
 SID Board Members: I'm seeking your approval for the attached quote for $5,000 for engineering services in support of the wastewater treatment facility (WWTF).
 <!-- excerpt -->
 
-<a href="/about/#wastewater-treatment-facility-(wwtf)">About our Wastewater Treatment Facility</a>
+<a href="/about/#wastewater-treatment-facility-wwtf">About our Wastewater Treatment Facility</a>
 (WWTF).
 
 The intent is that these engineering services answer two questions:

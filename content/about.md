@@ -24,7 +24,7 @@ of the ongoing management by the Board.
 |Board Member|Jay Ling|
 |Attorney|Matthew Rusch, [Erickson / Sederstrom P.C., L.L.O.](https://eslaw.com/)|
 
-# Wastewater Treatment Facility (WWTF)
+## Wastewater Treatment Facility (WWTF)
 
 The SID owns and operates it's own wastewater treatment facility.
 Constructed in the 1960s, it is a small package plant consisting of one aeration basin,
@@ -43,14 +43,14 @@ National Pollutant Discharge Elimination System (NPDES).
 * [Title 123](http://dee.ne.gov/RuleAndR.nsf/Title_123.xsp):
 Operation and Maintenance of Wastewater Works.
 
-# Warrants
+## Warrants
 
 "Warrants" are the accounting mechanism via which the SID pays vendors for services.
 Residents pay property taxes to the Douglas County Treasurer, which holds all the SID's money.
 The SID **President** and **Clerk** then sign "warrants" so that the County Treasurer sends
 money to (for example) OPPD for the electricity to run the WWTF.
 
-# Elections
+## Elections
 
 The SID Board of Directors consists of 5 members, elected every 2 years (e.g. 2024).
 The [Douglas County Election Commission](https://www.votedouglascounty.com/sid.aspx)

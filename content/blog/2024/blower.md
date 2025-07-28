@@ -14,5 +14,5 @@ I recommend that we replace the failed motor with a Baldor EM3311T.  This is the
 
 The Board voted to approve this request.
 
-<a href="/about/#wastewater-treatment-facility-(wwtf)">About our Wastewater Treatment Facility</a>
+<a href="/about/#wastewater-treatment-facility-wwtf">About our Wastewater Treatment Facility</a>
 (WWTF).
