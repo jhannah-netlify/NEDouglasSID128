@@ -45,7 +45,7 @@ Operation and Maintenance of Wastewater Works.
 
 ## Street
 
-<img src="/content/img/street.png">
+<img src="/img/street.png">
 
 ## Warrants
 
