@@ -1,6 +1,6 @@
 ---
 title: "Update: Sludge scraper gear, tree removal, NDEE"
-date: 2025-01-05 12:00:00 -5
+date: 2025-05-04 12:00:00 -5
 # published: false
 image: IMG_9919.jpg
 tags: wwtf
