@@ -43,10 +43,6 @@ National Pollutant Discharge Elimination System (NPDES).
 * [Title 123](http://dee.ne.gov/RuleAndR.nsf/Title_123.xsp):
 Operation and Maintenance of Wastewater Works.
 
-## Street
-
-<img src="/img/street.png">
-
 ## Warrants
 
 "Warrants" are the accounting mechanism via which the SID pays vendors for services.
@@ -73,3 +69,10 @@ Ballot One or Ballot Two. The candidate must specify which Ballot they want to a
 * September ~10 is election day, ballots must arrive on or before that day.
 * Those dates change slightly according to what days of the week those dates
 happen to fall on that year.
+
+## Street
+
+<img src="/img/street.png" eleventy:ignore align="left" hspace="10">
+
+The SID funds all repairs and replacement of our street from SID property taxes.
+With different surfaces and ages, the Board has to plan funding for decades to come.
