@@ -12,7 +12,7 @@ The Minutes of the meeting are available as a 128 page PDF from any Board Member
 or the SID Lawyer.
 
 Very short summary:
-* Proposed 2024-2025 Budget discussed and approved by the Board.
+* Proposed 2025-2026 Budget discussed and approved by the Board.
 * Property tax request unchanged from previous year. $76,369.40 (0.80635%).
 
 Our options regarding the WWTF, and Embris Group recommendations, were discussed by the Board, below.
