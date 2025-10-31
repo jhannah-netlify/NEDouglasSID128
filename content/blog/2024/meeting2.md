@@ -5,8 +5,8 @@ date: 2024-11-08 12:00:00 -5
 # tags: wwtf
 ---
 
-Jerry Wilson is staying on the Board, but resigned his Clerk position for health reasons. The Board approved the following:
-<!-- excerpt -->
+Jerry Wilson resigned his Clerk position for health reasons.
+The Board approved the following:
 
 * Accepted Jerry’s resignation as Clerk
 * Elected Troy Barnes as Board Chairman
