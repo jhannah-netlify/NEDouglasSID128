@@ -6,6 +6,9 @@ date: 2026-03-22 12:00:00 -5
 tags: wwtf
 ---
 
+<a href="/about/#wastewater-treatment-facility-wwtf">About our Wastewater Treatment Facility</a>
+(WWTF).
+
 On Friday, 20 March [vendor1] called and informed me that they were
 finally able to get a quote for materials for repair of the sludge scraper /
 chain system at the SID 128 WWTF in the amount of $182,000 for materials only,
@@ -68,4 +71,6 @@ Since October 2025, I've also been working with [vendor4] who
 is a local wastewater contractor and they have been unable to find a supplier
 having tried multiple of their industry contacts.
 
+<a href="/about/#wastewater-treatment-facility-wwtf">About our Wastewater Treatment Facility</a>
+(WWTF).
 
