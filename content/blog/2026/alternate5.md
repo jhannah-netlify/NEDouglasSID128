@@ -66,3 +66,23 @@ update in the next couple weeks.
 
 <a href="/about/#wastewater-treatment-facility-wwtf">About our Wastewater Treatment Facility</a>
 (WWTF).
+
+## Discussion
+
+Once you receive the updated information you mentioned we’ll want to discuss
+how to structure the legal support needed to develop the financing and other
+processes to move forward.  This would not be able to fit within the normal
+representation structure with Erickson|Sederstrom, but it is probably possible
+to finance the legal support as part of a project of this scope.
+
+---
+
+I just spoke with the Supervisor for the SRF section for the State of NE,
+Steve McNulty, and he said that the soonest the State will have any available
+SRF funds for wastewater projects is 2030 and that there will be a lot of
+competing interests at that time.  He stated that they did not rank 2027 SRF
+applications because they won’t have any available funds.  He also said that
+typical SRF low-interest loan terms are 20 to 30 years, which I think would work
+well for the SID.  Obviously, the lack of available SRF funds is not good news.
+
+Can you check what the SID’s options would be to finance such a large expense? 
