@@ -15,4 +15,8 @@ with the Douglas County Election Commission.
 * **Aug 25:** latest the ballots will be mailed to all property owners. Mailed by the Election Commission.
 * **Sep 15:** election of 5 trustees.
 
+By law, we're supposed to have 5 Board Members. The Board has been running with 4, and
+one has given notice they will not stand for election again. So if any homeowner is
+willing to serve on the Board please run for election.
+
 [How do SID elections work?](/about/#elections)
