@@ -1,7 +1,6 @@
 ---
 title: "Board Meeting: Feb 11"
 date: 2026-01-21 12:00:00 -5
-# published: false
 # image1: sludge_10.jpeg
 # tags: wwtf
 ---

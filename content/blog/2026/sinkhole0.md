@@ -1,7 +1,6 @@
 ---
 title: "Sinkhole"
 date: 2026-08-14 12:00:00 -5
-# published: false
 image: IMG_1818.jpeg
 tags: sinkhole
 ---

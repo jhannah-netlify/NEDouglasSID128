@@ -1,7 +1,6 @@
 ---
 title: "Alternate Cluster Septic? Update 2"
 date: 2026-06-17 12:00:00 -5
-# published: false
 # image1: sludge_10.jpeg
 tags: wwtf
 ---
