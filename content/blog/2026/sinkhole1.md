@@ -39,3 +39,5 @@ quarterly testing results!  These results make it viable to continue to invest
 in the SID's WWTF.  I think that even if the SID is going to replace the WWTF
 with a cluster septic system, the SID should probably complete the currently
 needed repairs to satisfy the NDWEE and buy some time.
+
+<a href="/about/#wastewater-treatment-facility-wwtf">About our Wastewater Treatment Facility</a>

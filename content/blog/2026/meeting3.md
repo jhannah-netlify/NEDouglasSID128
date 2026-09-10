@@ -17,3 +17,5 @@ The vote passed unanimously.
 We're hoping the WWTF repair bid might be able to stretch us to availability of
 low interest State Revolving Funds (SRF) in 2030 -- for switching to cluster
 septic.
+
+<a href="/about/#wastewater-treatment-facility-wwtf">About our Wastewater Treatment Facility</a>

@@ -13,3 +13,4 @@ the possibility of
 <a href="../../2025/combined_septic/">combined septic</a>,
 and to ratify and sign bill payment warrants.
 
+<a href="/about/#wastewater-treatment-facility-wwtf">About our Wastewater Treatment Facility</a>
