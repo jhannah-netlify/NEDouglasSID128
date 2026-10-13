@@ -19,8 +19,9 @@ of the ongoing management by the Board.
 |Formed|Aug 30, 1963|
 |Board Chairman|Troy Barnes|
 |Board Clerk|Jay Hannah, 402-598-7782|
-|Board Member|Doug Rose|
+|Board Member|Jerry Wilson|
 |Board Member|Jay Ling|
+|Board Member|Sarah Nevison|
 |Attorney|Matthew Rusch, [Erickson / Sederstrom P.C., L.L.O.](https://eslaw.com/)|
 
 ## Wastewater Treatment Facility (WWTF)
